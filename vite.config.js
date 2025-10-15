@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // 👈 important! matches your repo name
+  base: '/kryilProject/', // 👈 important! matches your repo name
 })
